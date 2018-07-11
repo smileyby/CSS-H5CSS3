@@ -48,5 +48,3 @@ Forms
 * customError 不符合自定义验证（setCustomValidity()自定义验证提示）[自定义验证提示-效果演示](https://codepen.io/smileyby/pen/NBWbKe)
 
 [点击查看-验证对象](https://codepen.io/smileyby/pen/bjGwYv)
-
-<font color="red">validity对象研究一下</font>
