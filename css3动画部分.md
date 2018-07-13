@@ -94,8 +94,8 @@ CSS3 动画部份
 
 ## transform3D变形
 
-* transform-style: flat|perserve-3d(3D空间展示)
-* perspective 景深效果
+* transform-style: flat | preserve-3d(3D空间展示)
+* perspective 景深效果 （设置给父元素）
 * transform: perspective(800px) 直接作用在子元素上
 * transform 新增函数
 * [translate3d](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate3d)(tx, ty, tz) => translateX() translateY() translateZ()
